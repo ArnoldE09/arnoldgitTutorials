@@ -3,10 +3,10 @@ sample2
 sample3git
 sample 4 
 sample 5 
-samnple 6
-samnple 7
-samnple 8
-samnple 9
-samnple 10
-samnple 11
+sample 6
+sample 7
+sample 8
+sample 9
+sample 10
+sample 11
 sample 12
