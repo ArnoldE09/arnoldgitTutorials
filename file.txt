@@ -1,6 +1,6 @@
 sample1
 sample2
-sample3git
+sample3
 sample 4 
 sample 5 
 sample 6
